@@ -1,0 +1,10 @@
+version: 1
+source: github
+pullRequests:
+  repositories:
+    - TomMkV/agent-echo
+    - TomMkV/homepage
+  states:
+    - merged
+  includeDrafts: false
+  maxPullRequestsPerRepository: 200
