@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:1d4c1eca64221de89c46c59e3d1acbc6
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/particle-container/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/particle-co\
+  ntainer/README.md"
 ---
 
 # Install @pixi/particle-container

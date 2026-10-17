@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:ba690accef32717333a1a25cff611044
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/mixin-cache-as-bitmap/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/mixin-cache\
+  -as-bitmap/README.md"
 ---
 
 # Import @pixi/mixin-cache-as-bitmap

@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:f534fc1961f9f370a733a2bd42dae265
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/spritesheet/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/spritesheet\
+  /README.md"
 ---
 
 # Install @pixi/spritesheet

@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:47acc57f2d58c963852a3285bdde3d22
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/call-bind-apply-helpers/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/call-bind-apply-h\
+  elpers/README.md"
 ---
 
 # Install call-bind-apply-helpers

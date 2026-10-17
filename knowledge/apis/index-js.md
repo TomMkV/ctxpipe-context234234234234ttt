@@ -1,5 +1,4 @@
 ---
-import_key: api:repo_agoxzdwbvj275ggqmm4k4lg3um:./:server/index.js
 kind: API
 generated_by: ctxpipe
 source: "https://github.com/tommkv/stillwood.git#server/index.js"

@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:79c5924eccaebfe175dd89c752aafa14
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-map/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-map/\
+  README.md"
 ---
 
 # Installation of side-channel-map

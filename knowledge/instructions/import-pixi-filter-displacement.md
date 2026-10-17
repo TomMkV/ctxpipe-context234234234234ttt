@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:945e63670a4ccbb640f6de6a2843e2c6
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/filter-displacement/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/filter-disp\
+  lacement/README.md"
 ---
 
 # Import @pixi/filter-displacement

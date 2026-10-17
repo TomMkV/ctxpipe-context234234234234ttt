@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:3bfba92e818d51ec890b93e697ae374c
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-weakmap/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-weak\
+  map/README.md"
 ---
 
 # Prefer side-channel package

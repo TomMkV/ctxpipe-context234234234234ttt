@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:eaa7ead19b77f581e6d3177d2f9ee8ba
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/text-bitmap/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/text-bitmap\
+  /README.md"
 ---
 
 # Install @pixi/text-bitmap

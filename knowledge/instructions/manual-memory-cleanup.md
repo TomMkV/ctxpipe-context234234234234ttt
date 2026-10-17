@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:0e9b665739925ec1bb36b464e51421c8
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-weakmap/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-weak\
+  map/README.md"
 ---
 
 # Manual memory cleanup

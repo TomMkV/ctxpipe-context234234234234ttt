@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:384ea66ccc8069b81bbd167f399c00ed
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/compressed-textures/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/compressed-\
+  textures/README.md"
 ---
 
 # Install @pixi/compressed-textures

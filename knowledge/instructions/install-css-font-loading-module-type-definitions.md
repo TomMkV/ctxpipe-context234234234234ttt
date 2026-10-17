@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:9149e6ac5d9dab35112abdd2be11a22f
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@types/css-font-loading-module/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@types/css-font-l\
+  oading-module/README.md"
 ---
 
 # Install CSS Font Loading Module type definitions

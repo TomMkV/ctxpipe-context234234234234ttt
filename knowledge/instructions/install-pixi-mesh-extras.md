@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:2ce9f25cff633f9eb7fd90ee46724836
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/mesh-extras/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/mesh-extras\
+  /README.md"
 ---
 
 # Install @pixi/mesh-extras

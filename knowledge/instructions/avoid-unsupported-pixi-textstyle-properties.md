@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:52bcf20d1656766c01337f8218d1a5e7
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/text-html/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/text-html/R\
+  EADME.md"
 ---
 
 # Avoid unsupported PIXI.TextStyle properties

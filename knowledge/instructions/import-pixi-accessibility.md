@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:0a5c0e501477b361777ff0fa0ff1527a
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/accessibility/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/accessibili\
+  ty/README.md"
 ---
 
 # Import @pixi/accessibility

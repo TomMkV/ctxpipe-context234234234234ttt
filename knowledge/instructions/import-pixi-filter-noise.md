@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:19b3ad59b871c80976da3a79bf5edcc9
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/filter-noise/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/filter-nois\
+  e/README.md"
 ---
 
 # Import @pixi/filter-noise

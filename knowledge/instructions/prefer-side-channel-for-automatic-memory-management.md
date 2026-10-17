@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:f26bd712898b6b69fa5b7c6f11c89971
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-map/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-map/\
+  README.md"
 ---
 
 # Prefer side-channel for automatic memory management

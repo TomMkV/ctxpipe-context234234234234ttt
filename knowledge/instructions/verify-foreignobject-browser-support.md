@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:94aa9e7b6e689018a08819e7e6441da8
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/text-html/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/text-html/R\
+  EADME.md"
 ---
 
 # Verify <foreignObject> browser support

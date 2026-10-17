@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:21150d9a8cc52e25b3532e936ee1fdf7
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@esbuild/darwin-arm64/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@esbuild/darwin-a\
+  rm64/README.md"
 ---
 
 # Install esbuild macOS ARM 64-bit binary

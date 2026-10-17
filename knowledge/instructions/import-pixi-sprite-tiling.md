@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:b1a7a94f2f7701a33b2a70443eb777e9
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/sprite-tiling/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/sprite-tili\
+  ng/README.md"
 ---
 
 # Import @pixi/sprite-tiling

@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:cfcad0c3b6a242d93df4a952ec093045
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-map/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/side-channel-map/\
+  README.md"
 ---
 
 # Running package tests

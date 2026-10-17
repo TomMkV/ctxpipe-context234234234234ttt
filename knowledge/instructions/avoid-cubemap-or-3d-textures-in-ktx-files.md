@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:ed9a6ac8d35545188e5dfc1ad588a5d1
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/compressed-textures/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/compressed-\
+  textures/README.md"
 ---
 
 # Avoid cubemap or 3D textures in .ktx files

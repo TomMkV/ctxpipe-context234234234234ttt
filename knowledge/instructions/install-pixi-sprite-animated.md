@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:c6148ea4703c7159ca5a71be718b04ea
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/sprite-animated/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/@pixi/sprite-anim\
+  ated/README.md"
 ---
 
 # Install @pixi/sprite-animated

@@ -1,15 +1,16 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:a420362ff8ad103c40af53315f6a1456
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/es-define-property/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/es-define-propert\
+  y/README.md"
 claims:
   - to: ../skill/ensure-security-issues-are-handled-through-private-responsible-d.md
     predicate: MEMBER_OF_PRIMARY
     confidence: 0.62
     valid_from: 2026-04-11T13:57:34.643Z
-    source: "https://github.com/tommkv/stillwood.git#node_modules/es-define-property/README.md"
+    source: "https://github.com/tommkv/stillwood.git#node_modules/es-define-propert\
+      y/README.md"
 ---
 
 # Report security vulnerabilities

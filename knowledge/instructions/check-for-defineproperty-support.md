@@ -1,9 +1,9 @@
 ---
-import_key: inu:repo_agoxzdwbvj275ggqmm4k4lg3um:./:1d7cfafa08d3ef3b1b0813077643a471
 kind: InstructionUnit
 confidence: 0.62
 generated_by: ctxpipe
-source: "https://github.com/tommkv/stillwood.git#node_modules/es-define-property/README.md"
+source: "https://github.com/tommkv/stillwood.git#node_modules/es-define-propert\
+  y/README.md"
 ---
 
 # Check for defineProperty support
