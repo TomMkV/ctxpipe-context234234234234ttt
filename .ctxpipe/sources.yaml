@@ -1,0 +1,10 @@
+version: 1
+sources:
+  [
+    {
+        id: linked-repositories,
+        provider: github,
+        connection: con_agowf44r2vynxn4omu3c6etrdq,
+        repositories: [ tommkv/productmap-legacy-2 ]
+      }
+  ]
